@@ -1,0 +1,3 @@
+#This is project read me file
+
+this contains ths info about project
